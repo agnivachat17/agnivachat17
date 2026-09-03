@@ -6,56 +6,349 @@
                       │  ▄▄██▀▄▀██▄▄  │
                       │   ▀█▀ ▀ ▀█▀   │
                       └───────────────┘
-       you went looking at the source. of course you did.
-       there are two more of these further down.
+
+               you went looking at the source.
+                    of course you did.
 -->
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/hero-dark-sm.svg">
-  <source media="(max-width: 600px)" srcset="./assets/hero-light-sm.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
-  <img alt="The displacement map. BUILT runs along the top in amber, PUSHED along the bottom in sky blue. The gesture car sits alone at October 2022, built before anything else, dropping a short tether to January 2023. Then the record stops: a vermilion arc spans thirty-nine months of silence across an empty chart before the pushes resume in May 2026." src="./assets/hero-light.svg">
-</picture>
+<p align="center">
+  <img src="./assets/hero-light.svg" alt="Agniva Chatterjee — developer, designer, builder" width="100%">
+</p>
 
-<a href="#the-gap"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav-record-dark.svg"><img alt="Go to THE GAP — 39 months, sealed" src="./assets/nav-record-light.svg" width="240"></picture></a> <a href="#objects"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav-objects-dark.svg"><img alt="Go to OBJECTS — 9, plotted by displacement" src="./assets/nav-objects-light.svg" width="240"></picture></a> <a href="#composition"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav-composition-dark.svg"><img alt="Go to COMPOSITION — measured in bytes" src="./assets/nav-composition-light.svg" width="240"></picture></a> <a href="#signal"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/nav-signal-dark.svg"><img alt="Go to SIGNAL — live, recounted weekly" src="./assets/nav-signal-light.svg" width="240"></picture></a>
+<p align="center">
+  <a href="#what-i-build">WHAT I BUILD</a>
+  &nbsp;·&nbsp;
+  <a href="#stack">STACK</a>
+  &nbsp;·&nbsp;
+  <a href="#selected-work">WORK</a>
+  &nbsp;·&nbsp;
+  <a href="#the-record">THE RECORD</a>
+  &nbsp;·&nbsp;
+  <a href="#signal">SIGNAL</a>
+</p>
 
-**[Portfolio](https://agniva.vercel.app "everything that isn't code")** · **[LinkedIn](https://linkedin.com/in/agnivachat17 "the version with a collar on")** · **[X](https://x.com/agnivachat17 "mostly football takes, occasionally correct")** · **[Instagram](https://instagram.com/agnivachat17 "left foot, right hand, no thesis")** · **[Email](mailto:agnivachat17@gmail.com "goes through, usually within a day")**
+<p align="center">
+  <a href="https://agniva.vercel.app">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="https://linkedin.com/in/agnivachat17">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://x.com/agnivachat17">X</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:agnivachat17@gmail.com">Email</a>
+</p>
+
+---
+
+## `01` — WHAT I BUILD
+
+I'm **Agniva Chatterjee**, a CSE student who likes taking an idea from
+**"this could be useful"** to **"why does this actually look good?"**
+
+I work across the boundary between **software engineering, UI/UX and visual design**.
+
+```text
+PRODUCT
+  ├── interfaces that don't feel like admin panels
+  ├── full-stack applications
+  ├── useful automation
+  └── systems that solve an actual problem
+
+DESIGN
+  ├── UI / UX
+  ├── visual identity
+  ├── interaction & motion
+  └── thumbnails / digital content
+
+CURRENTLY
+  └── CSE @ Adamas University
+```
+
+> **Build useful things. Make them look intentional. Ship them.**
 
 <br>
 
-## THE GAP
+## `02` — THE STACK
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/gap-sealed-dark-sm.svg">
-  <source media="(max-width: 600px)" srcset="./assets/gap-sealed-light-sm.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/gap-sealed-dark.svg">
-  <img alt="A sealed span. Thirty-nine months between January 2023 and May 2026 in which this account pushed nothing. A cold scan sweeps across it and finds no record." src="./assets/gap-sealed-light.svg">
-</picture>
+### LANGUAGES
 
-Last push: **21 January 2023.** Next push: **4 May 2026.** In between, `git log` has nothing
-to say. Not one commit, not one repository, not one line.
+<p>
+  <img src="https://img.shields.io/badge/Java-18181B?style=for-the-badge&logo=openjdk&logoColor=ED8B00" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-18181B?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/TypeScript-18181B?style=for-the-badge&logo=typescript&logoColor=3178C6" alt="TypeScript">
+  <img src="https://img.shields.io/badge/Python-18181B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python">
+  <img src="https://img.shields.io/badge/C++-18181B?style=for-the-badge&logo=cplusplus&logoColor=00599C" alt="C++">
+  <img src="https://img.shields.io/badge/SQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="SQL">
+</p>
+
+### FRONTEND
+
+<p>
+  <img src="https://img.shields.io/badge/React-18181B?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
+  <img src="https://img.shields.io/badge/Vite-18181B?style=for-the-badge&logo=vite&logoColor=646CFF" alt="Vite">
+  <img src="https://img.shields.io/badge/Tailwind_CSS-18181B?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS">
+  <img src="https://img.shields.io/badge/HTML5-18181B?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-18181B?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3">
+</p>
+
+### BACKEND / DATA
+
+<p>
+  <img src="https://img.shields.io/badge/Node.js-18181B?style=for-the-badge&logo=nodedotjs&logoColor=339933" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-18181B?style=for-the-badge&logo=express&logoColor=FFFFFF" alt="Express">
+  <img src="https://img.shields.io/badge/PostgreSQL-18181B?style=for-the-badge&logo=postgresql&logoColor=4169E1" alt="PostgreSQL">
+  <img src="https://img.shields.io/badge/MySQL-18181B?style=for-the-badge&logo=mysql&logoColor=4479A1" alt="MySQL">
+  <img src="https://img.shields.io/badge/JWT-18181B?style=for-the-badge&logo=jsonwebtokens&logoColor=FFFFFF" alt="JWT">
+</p>
+
+### TOOLS / INFRA
+
+<p>
+  <img src="https://img.shields.io/badge/Git-18181B?style=for-the-badge&logo=git&logoColor=F05032" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub_Actions-18181B?style=for-the-badge&logo=githubactions&logoColor=2088FF" alt="GitHub Actions">
+  <img src="https://img.shields.io/badge/Docker-18181B?style=for-the-badge&logo=docker&logoColor=2496ED" alt="Docker">
+  <img src="https://img.shields.io/badge/Render-18181B?style=for-the-badge&logo=render&logoColor=FFFFFF" alt="Render">
+  <img src="https://img.shields.io/badge/Vercel-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Vercel">
+  <img src="https://img.shields.io/badge/PM2-18181B?style=for-the-badge&logo=pm2&logoColor=FFFFFF" alt="PM2">
+</p>
+
+### DESIGN
+
+<p>
+  <img src="https://img.shields.io/badge/UI%2FUX-18181B?style=for-the-badge&logo=figma&logoColor=F24E1E" alt="UI UX">
+  <img src="https://img.shields.io/badge/Branding-18181B?style=for-the-badge&logo=adobe&logoColor=FF0000" alt="Branding">
+  <img src="https://img.shields.io/badge/Motion-18181B?style=for-the-badge&logo=framer&logoColor=0055FF" alt="Motion">
+  <img src="https://img.shields.io/badge/Visual_Design-18181B?style=for-the-badge&logo=canva&logoColor=00C4CC" alt="Visual Design">
+</p>
 
 <details>
-<summary><code> ▸ </code> &nbsp;<b><code>OPEN THE SPAN</code></b> &nbsp;<code>·</code>&nbsp; <sub>it was not empty</sub></summary>
+<summary><b>stack, without the badge wall</b></summary>
 
 <br>
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/gap-open-dark-sm.svg">
-  <source media="(max-width: 600px)" srcset="./assets/gap-open-light-sm.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/gap-open-dark.svg">
-  <img alt="The same span, opened and warm. The gesture-and-voice controlled car was built in October 2022 — accelerometer, Arduino, a working vehicle. Everything else from those months has no public record at all." src="./assets/gap-open-light.svg">
-</picture>
+| Layer          | Technologies                                        |
+| -------------- | --------------------------------------------------- |
+| **Languages**  | Java · JavaScript · TypeScript · Python · C++ · SQL |
+| **Frontend**   | React · Vite · Tailwind CSS · HTML · CSS            |
+| **Backend**    | Node.js · Express · JWT · REST APIs                 |
+| **Databases**  | PostgreSQL · MySQL                                  |
+| **DevOps**     | Docker · GitHub Actions · PM2                       |
+| **Deployment** | Vercel · Render                                     |
+| **Data / UI**  | Recharts · Responsive UI · Component Systems        |
+| **Design**     | UI/UX · Branding · Motion · Visual Design           |
 
-The **gesture-and-voice controlled car** was built in **October 2022** — accelerometer,
-Arduino, voice input, a vehicle that moved when told to. Its code
-([`main.ino`](https://github.com/agnivachat17/IoT-Gesture-Voice-Car)) was uploaded in
-**January 2023**, three months later. It then sat untouched for the entire silence and was
-only documented properly on **4 May 2026** — the same day the record restarted.
+</details>
 
-That is the one object in this profile whose build date and push date are known to differ,
-and it is the only surviving evidence that the thirty-nine months were not idle. The rest of
-that span exists. It just isn't here, and this page is not going to invent it for you.
+<br>
+
+## `03` — SELECTED WORK
+
+Not everything I've built lives in a public repository.
+
+These are the pieces that best explain how I work.
+
+### `lesson-tracker`
+
+**Full-stack academic management system**
+
+A private internal platform used by Adamas University faculty to record syllabus
+coverage.
+
+**What I worked on**
+
+* Project lead
+* Database schema & migrations
+* Authentication / JWT sessions
+* Express API routes
+* PDF lesson-plan parsing
+* React dashboards
+* Responsive UI
+* Email utilities
+* Admin & faculty workflows
+
+**Stack:** `React 19` `Vite` `Express 5` `PostgreSQL` `Tailwind` `JWT`
+`Recharts` `Nodemailer` `Docker Compose` `GitHub Actions` `Render` `PM2`
+
+---
+
+### `Samadhan`
+
+**Civic-innovation platform**
+
+A civic technology project built around making government/public-service
+problem reporting and institutional coordination more usable.
+
+**Focus:** product thinking · frontend engineering · UX · data flows ·
+real-world workflows
+
+---
+
+### `IoT Gesture + Voice Car`
+
+**Arduino · sensors · voice · motion**
+
+One of the earliest things I built: a small vehicle controlled through
+gesture and voice input.
+
+Built in **October 2022**. The code was uploaded later in January 2023.
+
+[→ repository](https://github.com/agnivachat17/IoT-Gesture-Voice-Car)
+
+---
+
+### `auto-file-compressor`
+
+A background utility that watches a folder and automatically compresses
+incoming files.
+
+```text
+FILE ARRIVES
+     ↓
+GHOSTSCRIPT
+     ↓
+   success ─────────→ done
+     ↓
+   fallback
+     ↓
+pypdf + Pillow
+     ↓
+     .exe
+```
+
+Built because manually compressing PDFs is annoying.
+
+Which is, frankly, a perfectly respectable reason to automate something.
+
+[→ repository](https://github.com/agnivachat17/auto-file-compressor)
+
+---
+
+### `Hospital Management System`
+
+Java Swing + MySQL + JDBC.
+
+Full CRUD application with seven GUI classes, packaged as a runnable `.jar`.
+
+[→ repository](https://github.com/agnivachat17/Hospital-Management-System)
+
+<br>
+
+## `04` — THE PUBLIC RECORD
+
+<p align="center">
+  <img src="./assets/composition-light.svg" alt="Repository language composition" width="100%">
+</p>
+
+The public repositories tell a slightly unusual story.
+
+Java dominates because **114 Java files** were written before university
+started — coursework, experiments, algorithms and increasingly questionable
+school projects.
+
+Then the stack changed.
+
+```text
+JAVA
+  ↓
+HTML / CSS
+  ↓
+PYTHON
+  ↓
+C++
+  ↓
+FULL-STACK
+  ↓
+REACT + EXPRESS + POSTGRES
+  ↓
+"okay, now let's make the UI good too"
+```
+
+The private work is where the stack became much broader.
+
+The public record just happens to be the part GitHub can count.
+
+<br>
+
+## `05` — OBJECTS
+
+<p align="center">
+  <a href="https://github.com/agnivachat17/IoT-Gesture-Voice-Car">
+    <img src="./assets/obj-IoT-Gesture-Voice-Car-light.svg" width="45%" alt="IoT Gesture Voice Car">
+  </a>
+  <a href="https://github.com/agnivachat17/auto-file-compressor">
+    <img src="./assets/obj-auto-file-compressor-light.svg" width="45%" alt="Auto File Compressor">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/agnivachat17/Hospital-Management-System">
+    <img src="./assets/obj-Hospital-Management-System-light.svg" width="45%" alt="Hospital Management System">
+  </a>
+  <a href="https://github.com/agnivachat17/Portfolio">
+    <img src="./assets/obj-Portfolio-light.svg" width="45%" alt="Portfolio">
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/agnivachat17/Miscellaneous">
+    <img src="./assets/obj-Miscellaneous-light.svg" width="45%" alt="Miscellaneous">
+  </a>
+  <a href="https://github.com/agnivachat17/Excessively-nerdy-codes">
+    <img src="./assets/obj-Excessively-nerdy-codes-light.svg" width="45%" alt="Excessively Nerdy Codes">
+  </a>
+</p>
+
+<p align="center">
+  <sub>Some are serious. Some are coursework. Some should probably remain in the archaeological record.</sub>
+</p>
+
+<br>
+
+## `06` — GITHUB SIGNAL
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=agnivachat17&show_icons=true&hide_border=true&bg_color=00000000&title_color=F59E0B&icon_color=38BDF8&text_color=888888&rank_icon=github" height="170">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnivachat17&layout=compact&hide_border=true&bg_color=00000000&title_color=F59E0B&text_color=888888" height="170">
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=agnivachat17&hide_border=true&background=00000000&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=888888&dates=888888" width="70%">
+</p>
+
+<br>
+
+## `07` — THE GAP
+
+<p align="center">
+  <img src="./assets/gap-sealed-light.svg" alt="The gap in the public GitHub record" width="100%">
+</p>
+
+**Last push: 21 January 2023.**
+
+**Next push: 4 May 2026.**
+
+Thirty-nine months.
+
+Nothing in between.
+
+No commits.
+No repositories.
+No convenient little green squares to make the graph look healthy.
+
+<details>
+<summary><b>OPEN THE SPAN</b> · it wasn't empty</summary>
+
+<br>
+
+The **gesture-and-voice controlled car** was built in October 2022 —
+accelerometer, Arduino, voice input, an actual vehicle that moved when told to.
+
+Its code was uploaded in January 2023.
+
+It was documented properly three years later.
+
+The rest of that period isn't represented here.
+
+And that's okay.
 
 > Work done. Credit unfiled.
 
@@ -63,167 +356,124 @@ that span exists. It just isn't here, and this page is not going to invent it fo
 
 <br>
 
-## OBJECTS
+## `08` — TRACES
 
-Nine. Ordered by displacement — how far apart *made* and *recorded* sit. Every tile is a link.
+<p align="center">
+  <img src="./assets/traces-light.svg" alt="Git commit history" width="100%">
+</p>
 
-<a href="https://github.com/agnivachat17/IoT-Gesture-Voice-Car"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/obj-IoT-Gesture-Voice-Car-dark.svg"><img alt="IoT-Gesture-Voice-Car — Arduino, built October 2022, uploaded January 2023" src="./assets/obj-IoT-Gesture-Voice-Car-light.svg" width="452"></picture></a>
-<a href="https://github.com/agnivachat17?tab=repositories"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/obj-lesson-tracker-dark.svg"><img alt="lesson-tracker — project lead, 17 commits, private repository" src="./assets/obj-lesson-tracker-light.svg" width="452"></picture></a>
-<a href="https://github.com/agnivachat17/auto-file-compressor"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/obj-auto-file-compressor-dark.svg"><img alt="auto-file-compressor — Python background watcher" src="./assets/obj-auto-file-compressor-light.svg" width="452"></picture></a>
-<a href="https://github.com/agnivachat17/Hospital-Management-System"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/obj-Hospital-Management-System-dark.svg"><img alt="Hospital-Management-System — Java Swing and MySQL, seven GUI classes" src="./assets/obj-Hospital-Management-System-light.svg" width="452"></picture></a>
-<a href="https://github.com/agnivachat17/Portfolio"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/obj-Portfolio-dark.svg"><img alt="Portfolio — hand-written HTML and CSS, eighteen commits in one sitting" src="./assets/obj-Portfolio-light.svg" width="452"></picture></a>
-<a href="https://github.com/agnivachat17/Miscellaneous"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/obj-Miscellaneous-dark.svg"><img alt="Miscellaneous — 70 Java programs, unsorted" src="./assets/obj-Miscellaneous-light.svg" width="452"></picture></a>
-<a href="https://github.com/agnivachat17/Class-12-Project"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/obj-Class-12-Project-dark.svg"><img alt="Class-12-Project — ISC coursework in Java" src="./assets/obj-Class-12-Project-light.svg" width="452"></picture></a>
-<a href="https://github.com/agnivachat17/Class-9-Project"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/obj-Class-9-Project-dark.svg"><img alt="Class-9-Project — school Java, January 2023" src="./assets/obj-Class-9-Project-light.svg" width="452"></picture></a>
-<a href="https://github.com/agnivachat17/Excessively-nerdy-codes"><picture><source media="(prefers-color-scheme: dark)" srcset="./assets/obj-Excessively-nerdy-codes-dark.svg"><img alt="Excessively-nerdy-codes — four Java files, named honestly" src="./assets/obj-Excessively-nerdy-codes-light.svg" width="452"></picture></a>
+One bar per commit.
 
-<sub>The last three are school coursework from January 2023, left exactly as uploaded. Most people quietly delete the part where they were learning. That part is the only part with a date on it.</sub>
+Height = commits that day.
+
+Which makes **4 May 2026** less of a date and more of a structural event.
 
 <details>
-<summary><code> ▸ </code> &nbsp;<b><code>OPEN THE EVIDENCE</code></b> &nbsp;<code>·</code>&nbsp; <sub>file paths, not adjectives</sub></summary>
+<summary><b>READ THE MESSAGES</b> · unedited</summary>
 
 <br>
 
-**`lesson-tracker`** is the one that argues something. An internal tool Adamas University
-faculty use to record syllabus coverage. Project lead. **17 commits, +8,970 / −3,606.** The
-repository is private and stays that way, so take it on paths — same person, same weeks,
-both ends of the stack:
-
-| Wrote the database | Wrote the interface |
-|---|---|
-| `server/db/schema.sql` | `src/index.css` |
-| `server/db/migration.sql` | `pages/Login.jsx` |
-| `server/routes/auth.js` | `components/Topbar.jsx` |
-| `server/routes/topics.js` | `components/Sidebar.jsx` |
-| `server/utils/parsePDF.js` | `pages/faculty/Dashboard.jsx` |
-| `server/utils/email.js` | `pages/admin/Employees.jsx` |
-
-JWT sessions over an httpOnly cookie with a bearer fallback for cross-origin. Dates handled
-as `YYYY-MM-DD` strings end to end, because `Date` objects silently shift the day across a
-timezone boundary and that bug is miserable to find twice. A PDF parser that reads the
-university's lesson-plan tables by structure rather than punctuation, so a topic containing
-a comma survives as one topic. Also, in the same weeks: an avatar cropper, a collapsible
-sidebar, a redesigned heatmap, and a 404 page.
-
-**`auto-file-compressor`** watches a folder and compresses files the moment they land —
-Ghostscript first, `pypdf` + Pillow as fallback, packaged to an `.exe` and set to run at
-startup. Built because moving PDFs around by hand is annoying, which is the correct reason
-to build anything.
-
-**`Hospital-Management-System`** is Java Swing over MySQL via JDBC. Seven GUI classes, full
-CRUD, ships as a runnable `.jar`.
+| Commit                                                 | Translation                                         |
+| ------------------------------------------------------ | --------------------------------------------------- |
+| `arrow change`                                         | The arrow was wrong.                                |
+| `arrow new`                                            | The arrow was still wrong.                          |
+| `arrow 2`                                              | Third attempt. Shipped.                             |
+| `remove wierd button`                                  | The button was weird. The typo is load-bearing.     |
+| `fix: center quick links on 404 page`                  | Nobody visits a 404 page. It is centred anyway.     |
+| `fix: redesign 404 page to match actual site branding` | Same page. Different week. Still nobody.            |
+| `● feat: partial topic coverage...`                    | The bullet is not part of the format.               |
+| `remove unused calendars state`                        | Deleting your own dead code is a personality trait. |
+| `-feat : backend bugs fix`                             | Punctuation under pressure.                         |
 
 </details>
 
 <br>
 
-## COMPOSITION
+## `09` — OUTSIDE THE REPOSITORY
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/composition-dark-sm.svg">
-  <source media="(max-width: 600px)" srcset="./assets/composition-light-sm.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/composition-dark.svg">
-  <img alt="Composition: the real language distribution across every public repository, drawn as one band ramping from built-amber to pushed-sky. Java dominates, then HTML, then Python, C++, Batchfile and VBScript." src="./assets/composition-light.svg">
-</picture>
+Some of the work isn't code.
 
-Counted in bytes by GitHub, not chosen. Java leads because 114 files of it exist from before
-university started — `MagicSquare.java`, `Goldbach_Number.java`, `FloydsTriangle.java`. The
-Batchfile and VBScript slivers are the launcher and the startup hook for the compressor, and
-they are on this page for the same reason everything else is: they are actually in there.
+### DESIGN
 
-Not visible in a byte count, and real anyway: **React 19, Vite, Express 5, PostgreSQL,
-Tailwind, Recharts, JWT, Nodemailer, Docker Compose, GitHub Actions, Render, PM2** — the
-`lesson-tracker` stack, private and therefore unmeasured. And **UI/UX, branding, thumbnails
-and the growth work behind a channel that reached 60K**, which lives on the
-[portfolio](https://agniva.vercel.app) and in no repository at all — which is, once again,
-the entire theme.
+UI/UX · visual identity · thumbnails · branding · motion
 
-<br>
+### CONTENT
 
-## TRACES
+Growth, creative direction and visual work behind a channel that reached
+**60K+**.
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/traces-dark-sm.svg">
-  <source media="(max-width: 600px)" srcset="./assets/traces-light-sm.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/traces-dark.svg">
-  <img alt="Traces: every commit this account has ever pushed, one bar each, in chronological order. Bar height is how many commits landed that day, so single-day bursts read as spikes." src="./assets/traces-light.svg">
-</picture>
+### PORTFOLIO
 
-One bar per commit, in order. Height is how many landed that day — which is why 4 May 2026
-is a wall.
+Everything that doesn't belong in a Git repository lives here:
 
-<details>
-<summary><code> ▸ </code> &nbsp;<b><code>READ THE MESSAGES</code></b> &nbsp;<code>·</code>&nbsp; <sub>unedited</sub></summary>
+<p align="center">
+
+**[agniva.vercel.app](https://agniva.vercel.app)**
+
+</p>
 
 <br>
 
-| What was committed | What was happening |
-|---|---|
-| `arrow change` | The arrow was wrong. |
-| `arrow new` | The arrow was still wrong. |
-| `arrow 2` | Third attempt. Shipped. |
-| `remove wierd button` | The button was weird. The typo is load-bearing. |
-| `fix: center quick links on 404 page` | Nobody visits a 404 page. It is centred anyway. |
-| `fix: redesign 404 page to match actual site branding` | Same page. Different week. Still nobody. |
-| `● feat: partial topic coverage, feedback system, and UI cleanup` | The bullet is not part of the format. |
-| `remove unused calendars state in admin dashboard` | Deleting your own dead code is a personality trait. |
-| `-feat : backend bugs fix` | Punctuation under pressure. |
+## `10` — CURRENTLY
 
-<sub>selected: 9 of 91 — and one more, kept separately, because it deserves its own drawer</sub>
-
-<details>
-<summary><code> ▸ </code> &nbsp;<b><code>THE TENTH</code></b></summary>
-
-<br>
-
-```
-:wqMerge branch 'main' of https://github.com/agnivachat17/Hospital-Management-System :wq
+```text
+┌─────────────────────────────────────────────────────────────┐
+│                                                             │
+│   studying CSE                                             │
+│   building full-stack products                             │
+│   obsessing over interfaces                                │
+│   learning by shipping                                     │
+│                                                             │
+│   ───────────────────────────────────────────────────────   │
+│                                                             │
+│   CODE        ███████████████████░░░  90%                  │
+│   DESIGN      █████████████████░░░░  80%                  │
+│   OVERTHINK   █████████████████████  100%                 │
+│                                                             │
+└─────────────────────────────────────────────────────────────┘
 ```
 
-Trapped in vim. Typed the escape. The escape went into the commit message. The commit
-message went into `main`. `main` went to GitHub. It is still there, and it is never coming
-out, because that is what a permanent record is for.
-
-</details>
-
-</details>
-
 <br>
 
-## SIGNAL
+## `11` — CONNECT
 
-<picture>
-  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="./assets/signal-dark-sm.svg">
-  <source media="(max-width: 600px)" srcset="./assets/signal-light-sm.svg">
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/signal-dark.svg">
-  <img alt="Signal: monthly commit counts across the whole span, regenerated weekly from the live API. A spike at January 2023, thirty-nine flat months, then the 2026 burst." src="./assets/signal-light.svg">
-</picture>
+<p align="center">
+  <a href="https://agniva.vercel.app">
+    <img src="https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+  </a>
+  <a href="https://linkedin.com/in/agnivachat17">
+    <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+  </a>
+  <a href="https://x.com/agnivachat17">
+    <img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=FFFFFF">
+  </a>
+  <a href="mailto:agnivachat17@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335">
+  </a>
+</p>
 
-Monthly counts, redrawn every Monday from the API by
-[a workflow in this repository](./.github/workflows/record.yml). The flat stretch in the
-middle is not a rendering artifact. Those months really are zero.
-
-<!--
-   the school repositories stay up on purpose.
-   most people quietly delete the part where they were learning.
-   that part is the only part with a date on it.
--->
-
-<br>
+<p align="center">
+  <sub>Open to interesting problems, ambitious builds and people who care about the last 10%.</sub>
+</p>
 
 ---
 
-**[Portfolio](https://agniva.vercel.app "everything that isn't code")** · **[LinkedIn](https://linkedin.com/in/agnivachat17 "the version with a collar on")** · **[X](https://x.com/agnivachat17 "mostly football takes, occasionally correct")** · **[Instagram](https://instagram.com/agnivachat17 "left foot, right hand, no thesis")** · **[Email](mailto:agnivachat17@gmail.com "goes through, usually within a day")**
+<p align="center">
+  <sub>
+    Agniva Chatterjee · CSE @ Adamas University
+  </sub>
+</p>
 
-<sub>Agniva Chatterjee · CS at Adamas University · maintained from Kolkata, in the same
-timezone the lesson tracker had to be taught about. Amber is what you built, sky is what git
-noticed, vermilion is the distance between them. Two fixed points, one in Queens and one in
-Rosario.</sub>
+<p align="center">
+  <sub>
+    amber = built · sky = recorded · vermilion = distance
+  </sub>
+</p>
 
 <!--
-   fingerprint no. 3, since you're still here:
-   in every asset, the element that crosses the gap is called `silence`,
-   and the one that carries charge along it is called `ember`.
-   the arc is the only thing in the whole system that touches both rails.
-   it is not shaped like that for structural reasons.
+    fingerprint no. 4:
+
+    if you reached this far, you probably inspect READMEs for fun.
+
+    unfortunately, so do I.
 -->
