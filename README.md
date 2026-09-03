@@ -11,9 +11,11 @@
                     of course you did.
 -->
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/hero-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/hero-light.svg">
   <img src="./assets/hero-light.svg" alt="Agniva Chatterjee — developer, designer, builder" width="100%">
-</p>
+</picture>
 
 <p align="center">
   <a href="#what-i-build">WHAT I BUILD</a>
@@ -234,9 +236,11 @@ Full CRUD application with seven GUI classes, packaged as a runnable `.jar`.
 
 ## `04` — THE PUBLIC RECORD
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/composition-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/composition-light.svg">
   <img src="./assets/composition-light.svg" alt="Repository language composition" width="100%">
-</p>
+</picture>
 
 The public repositories tell a slightly unusual story.
 
@@ -272,28 +276,62 @@ The public record just happens to be the part GitHub can count.
 
 <p align="center">
   <a href="https://github.com/agnivachat17/IoT-Gesture-Voice-Car">
-    <img src="./assets/obj-IoT-Gesture-Voice-Car-light.svg" width="45%" alt="IoT Gesture Voice Car">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/obj-IoT-Gesture-Voice-Car-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/obj-IoT-Gesture-Voice-Car-light.svg">
+      <img src="./assets/obj-IoT-Gesture-Voice-Car-light.svg" width="45%" alt="IoT Gesture Voice Car">
+    </picture>
   </a>
   <a href="https://github.com/agnivachat17/auto-file-compressor">
-    <img src="./assets/obj-auto-file-compressor-light.svg" width="45%" alt="Auto File Compressor">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/obj-auto-file-compressor-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/obj-auto-file-compressor-light.svg">
+      <img src="./assets/obj-auto-file-compressor-light.svg" width="45%" alt="Auto File Compressor">
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/agnivachat17/Hospital-Management-System">
-    <img src="./assets/obj-Hospital-Management-System-light.svg" width="45%" alt="Hospital Management System">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/obj-Hospital-Management-System-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/obj-Hospital-Management-System-light.svg">
+      <img src="./assets/obj-Hospital-Management-System-light.svg" width="45%" alt="Hospital Management System">
+    </picture>
   </a>
   <a href="https://github.com/agnivachat17/Portfolio">
-    <img src="./assets/obj-Portfolio-light.svg" width="45%" alt="Portfolio">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/obj-Portfolio-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/obj-Portfolio-light.svg">
+      <img src="./assets/obj-Portfolio-light.svg" width="45%" alt="Portfolio">
+    </picture>
   </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/agnivachat17/Miscellaneous">
-    <img src="./assets/obj-Miscellaneous-light.svg" width="45%" alt="Miscellaneous">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/obj-Miscellaneous-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/obj-Miscellaneous-light.svg">
+      <img src="./assets/obj-Miscellaneous-light.svg" width="45%" alt="Miscellaneous">
+    </picture>
   </a>
   <a href="https://github.com/agnivachat17/Excessively-nerdy-codes">
-    <img src="./assets/obj-Excessively-nerdy-codes-light.svg" width="45%" alt="Excessively Nerdy Codes">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/obj-Excessively-nerdy-codes-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/obj-Excessively-nerdy-codes-light.svg">
+      <img src="./assets/obj-Excessively-nerdy-codes-light.svg" width="45%" alt="Excessively Nerdy Codes">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/agnivachat17/lesson-tracker">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/obj-lesson-tracker-dark.svg">
+      <source media="(prefers-color-scheme: light)" srcset="./assets/obj-lesson-tracker-light.svg">
+      <img src="./assets/obj-lesson-tracker-light.svg" width="45%" alt="Lesson Tracker">
+    </picture>
   </a>
 </p>
 
@@ -305,22 +343,27 @@ The public record just happens to be the part GitHub can count.
 
 ## `06` — GITHUB SIGNAL
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agnivachat17&show_icons=true&hide_border=true&bg_color=00000000&title_color=F59E0B&icon_color=38BDF8&text_color=888888&rank_icon=github" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=agnivachat17&layout=compact&hide_border=true&bg_color=00000000&title_color=F59E0B&text_color=888888" height="170">
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/signal-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/signal-light.svg">
+  <img src="./assets/signal-light.svg" alt="GitHub signal" width="100%">
+</picture>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=agnivachat17&hide_border=true&background=00000000&ring=F59E0B&fire=F59E0B&currStreakLabel=F59E0B&sideLabels=888888&dates=888888" width="70%">
-</p>
+The numbers are useful.
+
+The shape of the activity is more interesting.
+
+This is what the public record actually looks like.
 
 <br>
 
 ## `07` — THE GAP
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/gap-sealed-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/gap-sealed-light.svg">
   <img src="./assets/gap-sealed-light.svg" alt="The gap in the public GitHub record" width="100%">
-</p>
+</picture>
 
 **Last push: 21 January 2023.**
 
@@ -358,9 +401,11 @@ And that's okay.
 
 ## `08` — TRACES
 
-<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/traces-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/traces-light.svg">
   <img src="./assets/traces-light.svg" alt="Git commit history" width="100%">
-</p>
+</picture>
 
 One bar per commit.
 
@@ -439,16 +484,16 @@ Everything that doesn't belong in a Git repository lives here:
 
 <p align="center">
   <a href="https://agniva.vercel.app">
-    <img src="https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/PORTFOLIO-18181B?style=for-the-badge&logo=vercel&logoColor=FFFFFF" alt="Portfolio">
   </a>
   <a href="https://linkedin.com/in/agnivachat17">
-    <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2">
+    <img src="https://img.shields.io/badge/LINKEDIN-18181B?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
   </a>
   <a href="https://x.com/agnivachat17">
-    <img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=FFFFFF">
+    <img src="https://img.shields.io/badge/X-18181B?style=for-the-badge&logo=x&logoColor=FFFFFF" alt="X">
   </a>
   <a href="mailto:agnivachat17@gmail.com">
-    <img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335">
+    <img src="https://img.shields.io/badge/EMAIL-18181B?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email">
   </a>
 </p>
 
