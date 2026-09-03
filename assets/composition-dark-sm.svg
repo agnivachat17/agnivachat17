@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 460" width="700" height="460" role="img" aria-label="Composition: the real language distribution across every public repository, drawn as one band ramping from built-amber to pushed-sky. Java 58.4 percent, HTML 34.0 percent, Python 6.4 percent, C++ 0.6 percent, Batchfile 0.3 percent, VBScript 0.3 percent.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#101728"/><stop offset="0.5" stop-color="#0B0F1A"/><stop offset="1" stop-color="#080B14"/>
+  </linearGradient></defs><rect width="700" height="460" fill="url(#bg)"/>
+     <text x="44" y="62" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="15" fill="#F0A93B" letter-spacing="3.4" >COMPOSITION</text>
+     <text x="44" y="128" font-family='"Helvetica Neue", Helvetica, Arial, sans-serif' font-size="46" fill="#EDEFF5" font-weight="300" >WHAT IT IS MADE OF</text>
+     <text x="44" y="158" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="12.5" fill="#4E586E" letter-spacing="2.2" >MEASURED IN BYTES, NOT CLAIMED IN BADGES</text>
+     <g>
+        <rect x="44" y="190" width="354.5178907991199" height="46" fill="#c9aa69" rx="1.5">
+          <animate attributeName="width" values="0;0;354.5178907991199" keyTimes="0;0.1200;1" dur="1.25s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+        </rect>
+        <text x="46" y="266" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="12" fill="#7E8598" letter-spacing="1.6" >JAVA</text>
+        <text x="46" y="286" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="12.5" fill="#c9aa69" letter-spacing="1.4" >58.4%</text>
+      </g><g>
+        <rect x="401.5178907991199" y="190" width="205.04079087866648" height="46" fill="#8cabb1" rx="1.5">
+          <animate attributeName="width" values="0;0;205.04079087866648" keyTimes="0;0.2086;1" dur="1.3900000000000001s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+        </rect>
+        <text x="403.5178907991199" y="266" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="12" fill="#7E8598" letter-spacing="1.6" >HTML</text>
+        <text x="403.5178907991199" y="286" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="12.5" fill="#8cabb1" letter-spacing="1.4" >34.0%</text>
+      </g><g>
+        <rect x="609.5586816777864" y="190" width="35.975211586558785" height="46" fill="#72acd1" rx="1.5">
+          <animate attributeName="width" values="0;0;35.975211586558785" keyTimes="0;0.2810;1" dur="1.5300000000000002s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+        </rect>
+        
+        
+      </g><g>
+        <rect x="648.5338932643451" y="190" width="2" height="46" fill="#6dacd7" rx="1.5">
+          <animate attributeName="width" values="0;0;2" keyTimes="0;0.3413;1" dur="1.6700000000000002s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+        </rect>
+        
+        
+      </g><g>
+        <rect x="652.1287936878765" y="190" width="2" height="46" fill="#6dacd7" rx="1.5">
+          <animate attributeName="width" values="0;0;2" keyTimes="0;0.3923;1" dur="1.81s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+        </rect>
+        
+        
+      </g><g>
+        <rect x="654.1608846145575" y="190" width="2" height="46" fill="#6cacd8" rx="1.5">
+          <animate attributeName="width" values="0;0;2" keyTimes="0;0.4359;1" dur="1.9500000000000002s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+        </rect>
+        
+        
+      </g>
+     <line x1="44" y1="320" x2="656" y2="320" stroke="#1E2433"/>
+     <text x="44" y="348" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="12" fill="#4E586E" letter-spacing="2.2" >BUILT</text>
+     <text x="656" y="348" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="12" fill="#4E586E" letter-spacing="2.2" text-anchor="end">PUSHED</text>
+</svg>

@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 240" width="1200" height="240" role="img" aria-label="A sealed span. Thirty-nine months between January 2023 and May 2026 in which this account pushed nothing. A cold scan sweeps it and finds no record.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#F7F5F0"/><stop offset="1" stop-color="#EFEBE2"/>
+  </linearGradient></defs><rect width="1200" height="240" fill="url(#bg)"/>
+     <defs>
+       <linearGradient id="seal" gradientUnits="userSpaceOnUse" x1="64" y1="0" x2="1136" y2="0">
+         <stop offset="0" stop-color="#2C7BA8" stop-opacity="0.55"/>
+         <stop offset="0.5" stop-color="#2C7BA8" stop-opacity="0.12"/>
+         <stop offset="1" stop-color="#2C7BA8" stop-opacity="0.55"/>
+       </linearGradient>
+       <linearGradient id="scan" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="90" y2="0">
+         <stop offset="0" stop-color="#2C7BA8" stop-opacity="0"/>
+         <stop offset="0.5" stop-color="#2C7BA8" stop-opacity="0.5"/>
+         <stop offset="1" stop-color="#2C7BA8" stop-opacity="0"/>
+       </linearGradient>
+     </defs>
+     <line x1="64" y1="126" x2="1136" y2="126" stroke="url(#seal)" stroke-width="2"/>
+     <g stroke="#E4E0D7">
+       <line x1="64" y1="117" x2="64" y2="135"/><line x1="153.33333333333331" y1="117" x2="153.33333333333331" y2="135"/><line x1="242.66666666666666" y1="117" x2="242.66666666666666" y2="135"/><line x1="332" y1="117" x2="332" y2="135"/><line x1="421.3333333333333" y1="117" x2="421.3333333333333" y2="135"/><line x1="510.66666666666663" y1="117" x2="510.66666666666663" y2="135"/><line x1="600" y1="117" x2="600" y2="135"/><line x1="689.3333333333333" y1="117" x2="689.3333333333333" y2="135"/><line x1="778.6666666666666" y1="117" x2="778.6666666666666" y2="135"/><line x1="868" y1="117" x2="868" y2="135"/><line x1="957.3333333333333" y1="117" x2="957.3333333333333" y2="135"/><line x1="1046.6666666666665" y1="117" x2="1046.6666666666665" y2="135"/><line x1="1136" y1="117" x2="1136" y2="135"/>
+     </g>
+     <rect x="64" y="100" width="90" height="52" fill="url(#scan)">
+       <animate attributeName="x" values="64;1046;64" dur="7s" repeatCount="indefinite"
+                calcMode="spline" keySplines="0.45 0 0.55 1;0.45 0 0.55 1" keyTimes="0;0.5;1"/>
+     </rect>
+     <text x="64" y="56" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="13" fill="#2C7BA8" letter-spacing="3.4" >NO PUBLIC RECORD</text>
+     <text x="64" y="116" font-family='"Helvetica Neue", Helvetica, Arial, sans-serif' font-size="58" fill="#12151E" font-weight="300" >39 MONTHS</text>
+     <text x="64" y="184" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11.5" fill="#8A8E98" letter-spacing="2.4" >JAN 2023 — MAY 2026 · NOTHING PUSHED</text>
+     <text x="1136" y="184" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11.5" fill="#8A8E98" letter-spacing="2.4" text-anchor="end">SCANNING</text>
+</svg>

@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 230" width="700" height="230" role="img" aria-label="Signal: recent public activity, regenerated automatically. Last recount 2026-09-03.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#F7F5F0"/><stop offset="1" stop-color="#EFEBE2"/>
+  </linearGradient></defs><rect width="700" height="230" fill="url(#bg)"/>
+     <defs>
+       <linearGradient id="sig" gradientUnits="userSpaceOnUse" x1="44" y1="0" x2="656" y2="0">
+         <stop offset="0" stop-color="#2C7BA8" stop-opacity="0.25"/>
+         <stop offset="0.7" stop-color="#C77A14" stop-opacity="0.9"/>
+         <stop offset="1" stop-color="#D92B12"/>
+       </linearGradient>
+     </defs>
+     <text x="44" y="56" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="15" fill="#C77A14" letter-spacing="3.4" >SIGNAL</text>
+     <text x="656" y="56" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="12" fill="#8A8E98" letter-spacing="2.2" text-anchor="end">RECOUNTED 2026-09-03</text>
+     <path d="M 44.0 119.1 L 57.9 165.0 L 71.8 165.0 L 85.7 165.0 L 99.6 165.0 L 113.5 165.0 L 127.5 165.0 L 141.4 165.0 L 155.3 165.0 L 169.2 165.0 L 183.1 165.0 L 197.0 165.0 L 210.9 165.0 L 224.8 165.0 L 238.7 165.0 L 252.6 165.0 L 266.5 165.0 L 280.5 165.0 L 294.4 165.0 L 308.3 165.0 L 322.2 165.0 L 336.1 165.0 L 350.0 165.0 L 363.9 165.0 L 377.8 165.0 L 391.7 165.0 L 405.6 165.0 L 419.5 165.0 L 433.5 165.0 L 447.4 165.0 L 461.3 165.0 L 475.2 165.0 L 489.1 165.0 L 503.0 165.0 L 516.9 165.0 L 530.8 165.0 L 544.7 165.0 L 558.6 165.0 L 572.5 165.0 L 586.5 165.0 L 600.4 111.0 L 614.3 165.0 L 628.2 165.0 L 642.1 165.0 L 656.0 165.0" fill="none" stroke="url(#sig)" stroke-width="2.2" stroke-linejoin="round"
+           stroke-dasharray="2000" stroke-dashoffset="0">
+       <animate attributeName="stroke-dashoffset" values="2000;2000;0" keyTimes="0;0.0833;1" dur="2.4000000000000004s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+     </path>
+     <circle r="4" fill="#D92B12" cx="656" cy="165">
+       <animate attributeName="r" values="4;7;4" dur="2.4s" repeatCount="indefinite"/>
+     </circle>
+     <circle r="10" fill="none" stroke="#D92B12" stroke-width="1" cx="656" cy="165">
+       <animate attributeName="r" values="8;20;8" dur="2.4s" repeatCount="indefinite"/>
+       <animate attributeName="stroke-opacity" values="0.6;0;0.6" dur="2.4s" repeatCount="indefinite"/>
+     </circle>
+     <line x1="44" y1="189" x2="656" y2="189" stroke="#DDD9D0"/>
+     <text x="44" y="217" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="12" fill="#8A8E98" letter-spacing="2.2" >THE RECORD IS CURRENT</text>
+</svg>

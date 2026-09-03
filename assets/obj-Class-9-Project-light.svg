@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 568 226" width="568" height="226" role="img" aria-label="Class-9-Project —  RECORD ACCURATE">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#F7F5F0"/><stop offset="1" stop-color="#EFEBE2"/>
+  </linearGradient></defs><rect width="568" height="226" fill="url(#bg)"/>
+     <rect x="0.5" y="0.5" width="567" height="225" fill="none" stroke="#DDD9D0"/>
+     <rect x="0" y="0" width="3" height="226" fill="#2C7BA8"/>
+     <text x="26" y="44" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="17" fill="#12151E" letter-spacing="1.6" >Class-9-Project</text>
+     <text x="26" y="68" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11" fill="#6B7180" letter-spacing="1.6" ></text>
+     <text x="542" y="44" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11.5" fill="#2C7BA8" letter-spacing="2.2" text-anchor="end">RECORD ACCURATE</text>
+
+     <g opacity="0.9"><circle cx="26" cy="128" r="2.6" fill="#C77A14"/></g>
+     <line x1="26" y1="178" x2="542" y2="178" stroke="#2C7BA8" stroke-opacity="0.35" stroke-width="1.4"/>
+     <line x1="26" y1="128" x2="26" y2="128" stroke="#C77A14" stroke-opacity="0.3" stroke-width="1.4"/>
+
+     <g stroke="#7FA3BC" stroke-width="1.2" stroke-opacity="0.55">
+            <line x1="26" y1="128" x2="26" y2="178"/><line x1="110.33333333333333" y1="128" x2="110.33333333333333" y2="178"/><line x1="194.66666666666666" y1="128" x2="194.66666666666666" y2="178"/><line x1="279" y1="128" x2="279" y2="178"/><line x1="363.3333333333333" y1="128" x2="363.3333333333333" y2="178"/><line x1="447.66666666666663" y1="128" x2="447.66666666666663" y2="178"/><line x1="532" y1="128" x2="532" y2="178"/>
+          </g>
+
+     <rect x="26" y="186" width="514" height="6" fill="#917a48" rx="1">
+        <animate attributeName="width" values="0;0;514" keyTimes="0;0.1818;1" dur="1.1s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+      </rect>
+     <text x="26" y="210" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="10.5" fill="#8A8E98" letter-spacing="2" >1 COMMITS · JAVA</text>
+     <text x="542" y="210" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="10.5" fill="#8A8E98" letter-spacing="2" text-anchor="end">PUSHED 2023-01</text>
+</svg>

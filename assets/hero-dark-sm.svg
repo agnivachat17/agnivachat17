@@ -1,0 +1,212 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 700 1180" width="700" height="1180" role="img"
+     aria-label="The displacement map, vertical. BUILT runs down the left in amber, PUSHED down the right in sky blue. Time flows downward from October 2022 to now. Each project crosses straight over from built to pushed — except the gesture car, built in October 2022 and uploaded in January 2023. Then the record stops: a vermilion arc bows out across thirty-nine months of silence before the pushes resume in May 2026.">
+
+  <!--
+        THE DISPLACEMENT MAP · portrait
+
+        the desktop map reads left to right and one object stretches across it.
+        here time falls instead, and the same object drops the whole height.
+        same system. different axis. not a squeeze.
+  -->
+
+  <defs>
+    <linearGradient id="ground" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#101728"/>
+      <stop offset="0.45" stop-color="#0B0F1A"/>
+      <stop offset="1" stop-color="#080B14"/>
+    </linearGradient>
+
+    <linearGradient id="builtRail" gradientUnits="userSpaceOnUse" x1="0" y1="360" x2="0" y2="1090">
+      <stop offset="0"    stop-color="#F0A93B" stop-opacity="0.35"/>
+      <stop offset="0.09" stop-color="#F0A93B" stop-opacity="1"/>
+      <stop offset="0.32" stop-color="#F0A93B" stop-opacity="0.18"/>
+      <stop offset="0.72" stop-color="#F0A93B" stop-opacity="0.18"/>
+      <stop offset="0.93" stop-color="#F0A93B" stop-opacity="1"/>
+      <stop offset="1"    stop-color="#F0A93B" stop-opacity="0.5"/>
+    </linearGradient>
+    <linearGradient id="pushedRail" gradientUnits="userSpaceOnUse" x1="0" y1="360" x2="0" y2="1090">
+      <stop offset="0"    stop-color="#6CACD8" stop-opacity="0.3"/>
+      <stop offset="0.09" stop-color="#6CACD8" stop-opacity="1"/>
+      <stop offset="0.32" stop-color="#6CACD8" stop-opacity="0.16"/>
+      <stop offset="0.72" stop-color="#6CACD8" stop-opacity="0.16"/>
+      <stop offset="0.93" stop-color="#6CACD8" stop-opacity="1"/>
+      <stop offset="1"    stop-color="#6CACD8" stop-opacity="0.55"/>
+    </linearGradient>
+
+    <linearGradient id="normal" gradientUnits="userSpaceOnUse" x1="150" y1="0" x2="550" y2="0">
+      <stop offset="0" stop-color="#F0A93B" stop-opacity="0.9"/>
+      <stop offset="1" stop-color="#6CACD8" stop-opacity="0.9"/>
+    </linearGradient>
+
+    <linearGradient id="ignite" gradientUnits="userSpaceOnUse" x1="0" y1="437" x2="0" y2="1013">
+      <stop offset="0"    stop-color="#F0A93B"/>
+      <stop offset="0.22" stop-color="#FF8A3D"/>
+      <stop offset="0.65" stop-color="#FF4F26"/>
+      <stop offset="1"    stop-color="#FF3B21"/>
+    </linearGradient>
+
+    <linearGradient id="voidband" gradientUnits="userSpaceOnUse" x1="0" y1="430" x2="0" y2="1015">
+      <stop offset="0"   stop-color="#4E6E9E" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#4E6E9E" stop-opacity="0.15"/>
+      <stop offset="1"   stop-color="#4E6E9E" stop-opacity="0"/>
+    </linearGradient>
+
+    <filter id="glowHot" x="-260%" y="-40%" width="620%" height="180%">
+      <feGaussianBlur stdDeviation="6" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="glowSoft" x="-160%" y="-160%" width="420%" height="420%">
+      <feGaussianBlur stdDeviation="4" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+
+    <path id="silence" d="M 550 437 Q 286 725 550 1013"/>
+
+    <style>
+      .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+      .sans { font-family: "Helvetica Neue", Helvetica, Arial, sans-serif; }
+      .hi   { fill: #EDEFF5; }
+      .dim  { fill: #7E8598; }
+      .amb  { fill: #F0A93B; }
+      .sky  { fill: #6CACD8; }
+      .ver  { fill: #FF3B21; }
+    </style>
+  </defs>
+
+  <rect width="700" height="1180" fill="url(#ground)"/>
+
+  <!-- ── masthead ─────────────────────────────────────────── -->
+  <line x1="44" y1="60" x2="656" y2="60" stroke="#1E2433"/>
+  <text class="mono dim" x="44" y="92" font-size="17" letter-spacing="4.5"
+        textLength="290" lengthAdjust="spacingAndGlyphs">AGNIVA CHATTERJEE</text>
+
+  <text class="sans hi" x="44" y="188" font-size="68" font-weight="300"
+        textLength="290" lengthAdjust="spacingAndGlyphs">THE</text>
+  <text class="sans hi" x="44" y="254" font-size="68" font-weight="300"
+        textLength="530" lengthAdjust="spacingAndGlyphs">UNPUSHED</text>
+  <text class="sans hi" x="44" y="320" font-size="68" font-weight="300"
+        textLength="370" lengthAdjust="spacingAndGlyphs">YEARS</text>
+
+  <!-- ── the void has a temperature ───────────────────────── -->
+  <rect x="152" y="430" width="396" height="585" fill="url(#voidband)"/>
+
+  <!-- ── time falls ───────────────────────────────────────── -->
+  <g stroke="#1C2637">
+    <line x1="120" y1="425" x2="580" y2="425"/>
+    <line x1="120" y1="603" x2="580" y2="603"/>
+    <line x1="120" y1="782" x2="580" y2="782"/>
+    <line x1="120" y1="961" x2="580" y2="961"/>
+  </g>
+  <g class="mono" fill="#4E586E" font-size="15" letter-spacing="2">
+    <text x="600" y="430">2023</text>
+    <text x="600" y="608">2024</text>
+    <text x="600" y="787">2025</text>
+    <text x="600" y="966">2026</text>
+  </g>
+
+  <!-- ── rails ────────────────────────────────────────────── -->
+  <text class="mono amb" x="150" y="348" font-size="15" letter-spacing="3.5" text-anchor="middle">BUILT</text>
+  <text class="mono sky" x="550" y="348" font-size="15" letter-spacing="3.5" text-anchor="middle">PUSHED</text>
+
+  <g stroke-dasharray="730" stroke-dashoffset="0" fill="none">
+    <animate attributeName="stroke-dashoffset" values="730;730;0" keyTimes="0;0.0833;1" dur="1.2s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+    <line x1="150" y1="360" x2="150" y2="1090" stroke="url(#builtRail)" stroke-width="10" stroke-opacity="0.16"/>
+    <line x1="150" y1="360" x2="150" y2="1090" stroke="url(#builtRail)" stroke-width="2.6"/>
+  </g>
+  <g stroke-dasharray="730" stroke-dashoffset="0" fill="none">
+    <animate attributeName="stroke-dashoffset" values="730;730;0" keyTimes="0;0.2414;1" dur="1.45s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+    <line x1="550" y1="360" x2="550" y2="1090" stroke="url(#pushedRail)" stroke-width="10" stroke-opacity="0.16"/>
+    <line x1="550" y1="360" x2="550" y2="1090" stroke="url(#pushedRail)" stroke-width="2.6"/>
+  </g>
+
+  <!-- ── objects whose record is accurate ─────────────────── -->
+  <g opacity="1">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.6316;1" dur="1.9s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+    <g stroke="url(#normal)" stroke-width="1.8" stroke-opacity="0.85">
+      <line x1="150" y1="413" x2="550" y2="413"/><line x1="150" y1="421" x2="550" y2="421"/>
+      <line x1="150" y1="429" x2="550" y2="429"/><line x1="150" y1="437" x2="550" y2="437"/>
+      <line x1="150" y1="1013" x2="550" y2="1013"/><line x1="150" y1="1021" x2="550" y2="1021"/>
+      <line x1="150" y1="1029" x2="550" y2="1029"/><line x1="150" y1="1044" x2="550" y2="1044"/>
+      <line x1="150" y1="1059" x2="550" y2="1059"/><line x1="150" y1="1074" x2="550" y2="1074"/>
+    </g>
+    <g class="amb" filter="url(#glowSoft)">
+      <circle cx="150" cy="413" r="4"/><circle cx="150" cy="421" r="4"/>
+      <circle cx="150" cy="429" r="4"/><circle cx="150" cy="437" r="4"/>
+      <circle cx="150" cy="1013" r="4"/><circle cx="150" cy="1021" r="4"/>
+      <circle cx="150" cy="1029" r="4"/><circle cx="150" cy="1044" r="4"/>
+      <circle cx="150" cy="1059" r="4"/><circle cx="150" cy="1074" r="4"/>
+    </g>
+    <g class="sky" filter="url(#glowSoft)">
+      <circle cx="550" cy="413" r="4"/><circle cx="550" cy="421" r="4"/>
+      <circle cx="550" cy="429" r="4"/><circle cx="550" cy="437" r="4"/>
+      <circle cx="550" cy="1013" r="4"/><circle cx="550" cy="1021" r="4"/>
+      <circle cx="550" cy="1029" r="4"/><circle cx="550" cy="1044" r="4"/>
+      <circle cx="550" cy="1059" r="4"/><circle cx="550" cy="1074" r="4"/>
+    </g>
+  </g>
+
+  <!-- ── the anomaly ──────────────────────────────────────── -->
+  <g opacity="1">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.7917;1" dur="2.4s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+    <circle cx="150" cy="380" r="8" class="amb" filter="url(#glowSoft)"/>
+    <circle cx="150" cy="380" r="16" fill="none" stroke="#F0A93B" stroke-width="1.3" stroke-opacity="0.55">
+      <animate attributeName="r" values="16;26;16" dur="3.4s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.55;0;0.55" dur="3.4s" repeatCount="indefinite"/>
+    </circle>
+    <text class="mono amb" x="44" y="385" font-size="15" letter-spacing="2.2">OCT 2022</text>
+    <text class="mono" fill="#A87C36" x="44" y="405" font-size="13" letter-spacing="1.6">GESTURE CAR</text>
+    <line x1="150" y1="380" x2="550" y2="413" stroke="#FF8A3D" stroke-width="2" stroke-opacity="0.9"
+          stroke-dasharray="402" stroke-dashoffset="0">
+      <animate attributeName="stroke-dashoffset" values="402;402;0" keyTimes="0;0.6897;1" dur="2.9s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+    </line>
+  </g>
+
+  <use href="#silence" fill="none" stroke="url(#ignite)" stroke-width="3" filter="url(#glowHot)"
+       stroke-dasharray="1120" stroke-dashoffset="1120">
+    <animate attributeName="stroke-dashoffset" from="1120" to="0" dur="3.1s" begin="2.4s"
+             fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1"/>
+  </use>
+
+  <circle r="6" fill="#FFF3EA" filter="url(#glowHot)" opacity="0">
+    <set attributeName="opacity" to="1" begin="2.4s"/>
+    <set attributeName="opacity" to="0" begin="5.5s"/>
+    <animateMotion dur="3.1s" begin="2.4s" fill="freeze" calcMode="spline" keySplines="0.4 0 0.2 1" keyTimes="0;1">
+      <mpath href="#silence"/>
+    </animateMotion>
+  </circle>
+
+  <g opacity="1">
+    <animate attributeName="opacity" values="0;0;1" keyTimes="0;0.931;1" dur="5.8s" begin="0s" fill="freeze" calcMode="spline" keySplines="0 0 1 1;0.3 0 0.2 1"/>
+    <circle cx="550" cy="1021" r="8" class="ver" filter="url(#glowSoft)"/>
+    <circle cx="550" cy="1021" r="16" fill="none" stroke="#FF3B21" stroke-width="1.3" stroke-opacity="0.6">
+      <animate attributeName="r" values="16;28;16" dur="2.6s" repeatCount="indefinite"/>
+      <animate attributeName="stroke-opacity" values="0.6;0;0.6" dur="2.6s" repeatCount="indefinite"/>
+    </circle>
+    <text class="mono ver" x="656" y="1026" font-size="15" letter-spacing="2.2" text-anchor="end">MAY 2026</text>
+  </g>
+
+  <!-- displacement readout, set along the fall -->
+  <g text-anchor="middle">
+    <g class="mono ver" font-size="34" letter-spacing="5">
+      <text x="322" y="716" opacity="0">00<set attributeName="opacity" to="1" begin="5.5s"/><set attributeName="opacity" to="0" begin="5.62s"/></text>
+      <text x="322" y="716" opacity="0">08<set attributeName="opacity" to="1" begin="5.62s"/><set attributeName="opacity" to="0" begin="5.74s"/></text>
+      <text x="322" y="716" opacity="0">16<set attributeName="opacity" to="1" begin="5.74s"/><set attributeName="opacity" to="0" begin="5.86s"/></text>
+      <text x="322" y="716" opacity="0">24<set attributeName="opacity" to="1" begin="5.86s"/><set attributeName="opacity" to="0" begin="5.98s"/></text>
+      <text x="322" y="716" opacity="0">32<set attributeName="opacity" to="1" begin="5.98s"/><set attributeName="opacity" to="0" begin="6.10s"/></text>
+      <text x="322" y="716" opacity="1">39</text>
+    </g>
+    <text class="mono" fill="#E4795C" x="322" y="746" font-size="14" letter-spacing="3">MONTHS WITHOUT A PUSH</text>
+  </g>
+
+  <circle r="3.6" fill="#FFB07A" opacity="0">
+    <animate attributeName="opacity" values="0;0;0.95;0.95;0" keyTimes="0;0.66;0.70;0.97;1"
+             dur="9s" begin="0s" repeatCount="indefinite"/>
+    <animateMotion dur="9s" begin="0s" repeatCount="indefinite"
+                   keyPoints="0;0;1" keyTimes="0;0.66;1" calcMode="linear">
+      <mpath href="#silence"/>
+    </animateMotion>
+  </circle>
+
+  <line x1="44" y1="1122" x2="656" y2="1122" stroke="#1E2433"/>
+  <text class="mono" fill="#4E586E" x="44" y="1150" font-size="13" letter-spacing="2.2">THE WORK DID NOT STOP. THE RECORD DID.</text>
+</svg>

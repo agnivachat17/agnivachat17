@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 264 76" width="264" height="76" role="img" aria-label="THE GAP — 39 MONTHS, SEALED">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#FFFFFF"/><stop offset="0.5" stop-color="#F7F5F0"/><stop offset="1" stop-color="#EFEBE2"/>
+  </linearGradient></defs><rect width="264" height="76" fill="url(#bg)"/>
+     <rect x="0.5" y="0.5" width="263" height="75" fill="none" stroke="#DDD9D0"/>
+     <rect x="0" y="0" width="3" height="76" fill="#2C7BA8"/>
+     <text x="22" y="33" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="14" fill="#12151E" letter-spacing="3.2" >THE GAP</text>
+     <text x="22" y="55" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="10.5" fill="#8A8E98" letter-spacing="2.2" >39 MONTHS, SEALED</text>
+     <circle cx="242" cy="38" r="3" fill="#2C7BA8">
+       <animate attributeName="opacity" values="1;0.25;1" dur="3s" repeatCount="indefinite"/>
+     </circle>
+</svg>

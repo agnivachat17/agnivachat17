@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" width="1200" height="340" role="img" aria-label="The same span, opened. It was not empty: the gesture-and-voice controlled car was built in October 2022 — accelerometer, Arduino, a working vehicle — and reached GitHub only in May 2026. Everything else from those months has no public record at all.">
+<defs><linearGradient id="bg" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#101728"/><stop offset="0.5" stop-color="#0B0F1A"/><stop offset="1" stop-color="#080B14"/>
+  </linearGradient></defs><rect width="1200" height="340" fill="url(#bg)"/>
+     <defs>
+       <linearGradient id="warm" gradientUnits="userSpaceOnUse" x1="64" y1="0" x2="1136" y2="0">
+         <stop offset="0" stop-color="#F0A93B" stop-opacity="0.9"/>
+         <stop offset="0.55" stop-color="#F0A93B" stop-opacity="0.22"/>
+         <stop offset="1" stop-color="#F0A93B" stop-opacity="0.06"/>
+       </linearGradient>
+       <radialGradient id="bloom" gradientUnits="userSpaceOnUse" cx="72" cy="210" r="260">
+         <stop offset="0" stop-color="#F0A93B" stop-opacity="0.20"/>
+         <stop offset="1" stop-color="#F0A93B" stop-opacity="0"/>
+       </radialGradient>
+     </defs>
+     <rect width="1200" height="340" fill="url(#bloom)"/>
+     <text x="64" y="54" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="13" fill="#F0A93B" letter-spacing="3.4" >THE SPAN WAS NOT EMPTY</text>
+     <text x="64" y="118" font-family='"Helvetica Neue", Helvetica, Arial, sans-serif' font-size="54" fill="#EDEFF5" font-weight="300" >ONE SURVIVES</text>
+     <line x1="64" y1="210" x2="1136" y2="210" stroke="url(#warm)" stroke-width="2"/>
+     <circle cx="72" cy="210" r="7" fill="#F0A93B"/>
+     <circle cx="72" cy="210" r="14" fill="none" stroke="#F0A93B" stroke-width="1.2">
+       <animate attributeName="r" values="14;26;14" dur="3.4s" repeatCount="indefinite"/>
+       <animate attributeName="stroke-opacity" values="0.6;0;0.6" dur="3.4s" repeatCount="indefinite"/>
+     </circle>
+     <text x="94" y="198" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="13.5" fill="#F0A93B" letter-spacing="2.4" >OCT 2022 · GESTURE CAR</text>
+     <text x="94" y="224" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11.5" fill="#A87C36" letter-spacing="1.8" >ARDUINO · ACCELEROMETER · VOICE INPUT</text>
+     <text x="94" y="244" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11.5" fill="#E4795C" letter-spacing="1.8" >UPLOADED JAN 2023 · DOCUMENTED MAY 2026</text>
+     <g stroke="#1C2637" stroke-dasharray="2 7">
+       <line x1="364" y1="184" x2="364" y2="236"/><line x1="514.4" y1="184" x2="514.4" y2="236"/><line x1="664.8" y1="184" x2="664.8" y2="236"/><line x1="815.2" y1="184" x2="815.2" y2="236"/><line x1="965.6" y1="184" x2="965.6" y2="236"/>
+     </g>
+     <text x="1136" y="294" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11" fill="#4E586E" letter-spacing="2.2" text-anchor="end">EVERYTHING ELSE · NO RECORD</text>
+     <text x="64" y="306" font-family='"SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace' font-size="11.5" fill="#7E8598" letter-spacing="2.2" >GIT KNOWS WHEN YOU PUSHED. IT DOES NOT KNOW WHEN YOU BUILT.</text>
+</svg>

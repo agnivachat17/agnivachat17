@@ -1,0 +1,228 @@
+[
+  {
+    "name": "auto-file-compressor",
+    "url": "https://github.com/agnivachat17/auto-file-compressor",
+    "desc": "Real-time local file compression automation tool built with Python.",
+    "built": "2026-05-06",
+    "pushed": "2026-05-06",
+    "displaced": 0,
+    "commits": 4,
+    "dates": [
+      "2026-05-06",
+      "2026-05-06",
+      "2026-05-06",
+      "2026-05-06"
+    ],
+    "langs": [
+      [
+        "Python",
+        26660
+      ],
+      [
+        "Batchfile",
+        1390
+      ],
+      [
+        "VBScript",
+        1258
+      ]
+    ],
+    "stars": 2
+  },
+  {
+    "name": "Hospital-Management-System",
+    "url": "https://github.com/agnivachat17/Hospital-Management-System",
+    "desc": "Java Swing + MySQL Hospital Management System with full CRUD operations and GUI",
+    "built": "2026-05-04",
+    "pushed": "2026-05-04",
+    "displaced": 0,
+    "commits": 11,
+    "dates": [
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04"
+    ],
+    "langs": [
+      [
+        "Java",
+        71065
+      ]
+    ],
+    "stars": 1
+  },
+  {
+    "name": "Portfolio",
+    "url": "https://github.com/agnivachat17/Portfolio",
+    "desc": "Personal portfolio website",
+    "built": "2026-05-03",
+    "pushed": "2026-05-03",
+    "displaced": 0,
+    "commits": 20,
+    "dates": [
+      "2026-05-13",
+      "2026-05-13",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-03",
+      "2026-05-03",
+      "2026-05-03",
+      "2026-05-03",
+      "2026-05-03",
+      "2026-05-03",
+      "2026-05-03",
+      "2026-05-03",
+      "2026-05-03",
+      "2026-05-03",
+      "2026-05-03",
+      "2026-05-03",
+      "2026-05-03"
+    ],
+    "langs": [
+      [
+        "HTML",
+        142305
+      ]
+    ],
+    "stars": 0
+  },
+  {
+    "name": "IoT-Gesture-Voice-Car",
+    "url": "https://github.com/agnivachat17/IoT-Gesture-Voice-Car",
+    "desc": "IoT-based gesture & voice controlled car using Arduino and accelerometer",
+    "built": "2022-10-01",
+    "pushed": "2023-01-17",
+    "displaced": 4,
+    "commits": 6,
+    "dates": [
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2026-05-04",
+      "2023-01-17"
+    ],
+    "langs": [
+      [
+        "C++",
+        2459
+      ]
+    ],
+    "stars": 0
+  },
+  {
+    "name": "Class-9-Project",
+    "url": "https://github.com/agnivachat17/Class-9-Project",
+    "desc": "",
+    "built": "2023-01-17",
+    "pushed": "2023-01-17",
+    "displaced": 0,
+    "commits": 1,
+    "dates": [
+      "2023-01-17"
+    ],
+    "langs": [
+      [
+        "Java",
+        11779
+      ]
+    ],
+    "stars": 0
+  },
+  {
+    "name": "Excessively-nerdy-codes",
+    "url": "https://github.com/agnivachat17/Excessively-nerdy-codes",
+    "desc": "",
+    "built": "2023-01-17",
+    "pushed": "2023-01-17",
+    "displaced": 0,
+    "commits": 1,
+    "dates": [
+      "2023-01-17"
+    ],
+    "langs": [
+      [
+        "Java",
+        24637
+      ]
+    ],
+    "stars": 0
+  },
+  {
+    "name": "Miscellaneous",
+    "url": "https://github.com/agnivachat17/Miscellaneous",
+    "desc": "All types of Miscallenous java programs",
+    "built": "2023-01-17",
+    "pushed": "2023-01-17",
+    "displaced": 0,
+    "commits": 10,
+    "dates": [
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17"
+    ],
+    "langs": [
+      [
+        "Java",
+        75095
+      ]
+    ],
+    "stars": 1
+  },
+  {
+    "name": "Class-12-Project",
+    "url": "https://github.com/agnivachat17/Class-12-Project",
+    "desc": "This conatins the codes of all the qustions of ISC Class 12 Computer project [DBL haha :) ....]",
+    "built": "2023-01-16",
+    "pushed": "2023-01-16",
+    "displaced": 0,
+    "commits": 21,
+    "dates": [
+      "2023-01-21",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-17",
+      "2023-01-16",
+      "2023-01-16"
+    ],
+    "langs": [
+      [
+        "Java",
+        61975
+      ]
+    ],
+    "stars": 0
+  }
+]
